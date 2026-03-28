@@ -1,15 +1,8 @@
-<a href="(c)%20vysr%20Productions%20Web%20Clip%20Profile.mobileconfig">
-  Install Profile
-</a>
-
-
-
-
 # Dataprism
 
 > [Open via Browser](http://checkyourdata.cu.ma/)
 
-> [Install on your iDevice](https://github.com/velocity-dc/dataprism/raw/main/(c)%20vysr%20Productions%20Web%20Clip%20Profile.mobileconfig)
+> [Install on your iDevice](https://www.icloud.com/shortcuts/ef0c55a2ba424ebba6f07993e58684f2)
 > (limited functionality)
 > 
 ## 🌐 About the Project
