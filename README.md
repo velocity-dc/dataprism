@@ -1,7 +1,9 @@
 # Dataprism
 
 > [Open via Browser](http://checkyourdata.cu.ma/)
+
 > [Install onto your iDevice](test)
+> (limited functionality)
 ## 🌐 About the Project
 
 This app is more than just a tool — it’s a window into your digital self.  
